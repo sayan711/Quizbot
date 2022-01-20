@@ -1,0 +1,7 @@
+What is 14 * 17?
+238
+What is 385 + 261?
+646
+What is the square root of 256?
+16
+
